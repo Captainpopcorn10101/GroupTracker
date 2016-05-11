@@ -1,2 +1,5 @@
 # GroupTracker
-Original; GroupTracker by BawbCat from 2014. Please do not distribute.
+
+
+#### WARNING ####
+# This source is not to be distributed. 
